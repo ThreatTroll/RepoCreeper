@@ -5,6 +5,9 @@
 
 > 🔐 Ideal for CTI analysts, red teamers, and OSINT researchers tracking leaks, misconfigs, and exposed dev artifacts.
 
+<img width="824" height="274" alt="image" src="https://github.com/user-attachments/assets/71c22ee3-5720-4e6b-bbc0-0059fcf8db10" />
+
+
 ---
 
 ## 🚀 Features
