@@ -52,15 +52,12 @@ Paste it when prompted
 
 ⚡ Quick Start
 # 1. Clone or download the tool
-git clone [https://github.com/ThreatTroll/RepoCreeper.git]
-cd repocreeper
-python -m venv venv
-source venv/bin/activate      # On Windows: venv\\Scripts\\activate
-pip install -r requirements.txt
+- git clone [https://github.com/ThreatTroll/RepoCreeper.git]
+- cd repocreeper
+- python -m venv venv
+- source venv/bin/activate      # On Windows: venv\\Scripts\\activate
+- pip install -r requirements.txt
 
-
-# 2. Install dependencies
-pip install requests
 
 # 3. Run the tool
 python repocreeper.py
