@@ -52,7 +52,7 @@ Paste it when prompted
 
 ⚡ Quick Start
 # 1. Clone or download the tool
-git clone https://github.com/your-username/repocreeper.git
+git clone [https://github.com/ThreatTroll/RepoCreeper.git]
 cd repocreeper
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\\Scripts\\activate
